@@ -1,0 +1,12 @@
+-Criando um projeto em adonis
+npm init adonisjs@latest hello-world
+
+-Selecionar as opções:
+API
+Access Token
+sqlite
+
+node ace make:controller Produto
+node ace list:routes
+node ace migration:run
+
